@@ -30,4 +30,4 @@
 - In matches dataset taking the first innings data (1) and summing the match score of first innings.
 - Replacing the name of teams with valid teams name and removed *dock_worth_lousi* matches because these matches winning tems decide by dock_worth_lousi systen.
 - Selecting only valid information from matches dataset. 
-- ![This is an image](https://github.com/SagarGuttal/Deployment-of-model-in-website/matches%20data.png)
+- ![This is an image](https://github.com/SagarGuttal/Deployment-of-model-in-website/blob/main/matches%20data.png)
