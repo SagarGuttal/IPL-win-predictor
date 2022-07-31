@@ -10,8 +10,7 @@
 ## Steps are taken to this Project :- 
 1. Take the inforamation of cricket matches -Dataset
 2. Data preprocessing
-- Data Understanding
-4. Data scaling
+4. Feature engineering
 6. Model-Building/Hyperparameter Tuning
 7. Model Evaluation: 
 8. Creating front end UI for a website
@@ -35,3 +34,18 @@
 
 - Making current score, runs left, Balls left, Wickets remaning, Current run rate, Require run rate, Result columns for modeling
 ![final dataset](https://github.com/SagarGuttal/Deployment-of-model-in-website/blob/main/Final_data.png)
+
+- Checking null values and droping the null values
+- Spliting the feature columns(X) and Target columns(y)
+- split the data into Training and testing - I take 80% of data for training and 20% of data for testing
+
+## Feature engineering :-
+- Using One hot encoder column transfer to transfer categorical data into numarical data. 
+
+## Model building :-
+- importing selected algorithms to test the model performance.
+- importing Logistic regression algorithm fit the training dataset to learn the pattern of dataset
+- Usnig hyperparameter technique to improve our model
+- Finally check the accuracy of a model
+- Predict probabilities of the testing dataset to check the accuracy
+- Finally dump the final model using pickle module
