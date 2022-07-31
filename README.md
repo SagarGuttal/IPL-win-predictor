@@ -29,5 +29,5 @@
 - Importing libraries and read the data and understanding the data. We have a dataset is about total 756 matches information and in matches dataset we have teams and other information. 
 - In matches dataset taking the first innings data (1) and summing the match score of first innings.
 - Replacing the name of teams with valid teams name and removed *dock_worth_lousi* matches because these matches winning tems decide by dock_worth_lousi systen.
-[My matches data](https://github.com/SagarGuttal/Deployment-of-model-in-website/matches data.png)
+![My matches data](https://github.com/SagarGuttal/Deployment-of-model-in-website/matches data.png)
 - Selecting only valid information from matches dataset. 
