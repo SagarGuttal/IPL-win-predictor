@@ -48,4 +48,4 @@
 - Usnig hyperparameter technique to improve our model
 - Finally check the accuracy of a model
 - Predict probabilities of the testing dataset to check the accuracy
-- Finally dump the final model using pickle module
+- Finally dump the final model using pickle module.
